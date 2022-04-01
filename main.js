@@ -45,7 +45,7 @@ function draw(){
 
     fill("#FF0000");
     stroke("#0000FF");
-    if(scoreRightWrist > 0.2){
+    if(scoreRightWrist > 0.05){
 
     circle(rightWristX, rightWristY, 20);
 
