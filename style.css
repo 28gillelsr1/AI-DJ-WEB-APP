@@ -1,0 +1,63 @@
+body{
+    background-size:cover;
+}.heading-note{
+    width:100%;
+    margin-top:-20px;
+    font-family: 'Fredoka', sans-serif;
+    color:black;
+}
+.note:hover{
+    color:cornflowerblue;
+}
+.heading{
+    color:deepskyblue;
+    font-size:40px;
+    width:100%;
+    margin-top:0px;
+    font-family: 'Fredoka', sans-serif;
+    font-weight:bold;
+}
+.note{
+    
+    color:black;
+    font-size:20px;
+}
+.div_speed{
+    float:left;
+    position:absolute;
+    left:8%;
+}
+.div_speed_img{
+    width:200px;
+    border-radius:100px;
+
+}
+#speed{
+    font-size:23px;
+    margin:15px;
+}
+.div_volume{
+    float:right;
+    position:absolute;
+    right:8%;
+}
+.div_volume_img{
+    width:200px;
+    border-radius:100px;
+}
+#volume{
+    font-size:23px;
+    margin:15px;
+}
+.play_button{
+    font-family: 'Fredoka', sans-serif;
+    width:130px;
+    font-size:25px;
+    color:darkblue;
+   
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    margin-top:70px;
+}
